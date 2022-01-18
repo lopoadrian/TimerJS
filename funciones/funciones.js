@@ -38,7 +38,7 @@ function setTimer() {
 }
 
 function countdown () {
-    repeater = setInterval(runner, 1000);
+    repeater = setInterval(runner, 750);
 }
 
 
